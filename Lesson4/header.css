@@ -1,0 +1,30 @@
+header {
+    width: 1600px;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+.headlogo {
+    display: inline-block;
+}
+.logo {
+    margin-top: 56px;
+    padding-left: 191px;
+}
+.logohome {
+    
+    margin-top: 62px;
+    padding-left: 12px;
+    text-decoration: none;
+}
+ul {
+    display: flex;
+    float: right;
+}
+li { 
+    margin-top: 70px;
+    padding-left: 40px;
+}
+li :first-child {
+    margin-left: 50px
+}
